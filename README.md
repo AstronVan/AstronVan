@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Hi+there,+I'm+[Your+Name]+👋;Engineering+Student;Building+cool+projects!" alt="Typing SVG" />
 </div>
 <div align="center">
-  <img src="bg1.gif" width="100%" alt="Header Banner" />
+  <img src="bg3.gif" width="100%" alt="Header Banner" />
 </div>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,python,git,github,arduino,adobe,adobephotoshop,adobelightroom,qgis,HTML5,CSS" />
