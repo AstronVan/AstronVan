@@ -2,8 +2,9 @@
 <div align="center">
   <img src="bg1.gif" width="100%" alt="Header Banner" />
 </div>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,git,github,arduino,adobe,adobephotoshop,adobelightroom,qgis,HTML5,CSS,steam,matlab,figma,vercel,discord" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,py,git,github,arduino,matlab,figma,vercel,discord&perline=10" alt="Tech Stack" />
+</p>
 </div>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sharmavamshi1-netizen&show_icons=true&theme=catppuccin_mocha&hide_border=true" height="150" />
