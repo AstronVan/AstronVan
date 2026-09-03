@@ -3,7 +3,7 @@
   <img src="bg1.gif" width="100%" alt="Header Banner" />
 </div>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,git,github,arduino,adobe,adobephotoshop,adobelightroom,qgis,HTML5,CSS" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,git,github,arduino,adobe,adobephotoshop,adobelightroom,qgis,HTML5,CSS,powershell,azure,render,vercel,canva,framer,figma,gemini,matlab,matplotlib,phoenixRC,steam,epic games,discord" />
 </div>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sharmavamshi1-netizen&show_icons=true&theme=catppuccin_mocha&hide_border=true" height="150" />
