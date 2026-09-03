@@ -2,7 +2,7 @@
 <div align="center">
   <img src="bg1.gif" width="100%" alt="Header Banner" />
 </div>
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,py,git,github,arduino,matlab,figma,vercel,discord&perline=10" alt="Tech Stack" />
 </p>
 </div>
